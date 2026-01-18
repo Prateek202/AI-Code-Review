@@ -172,18 +172,4 @@ Copy code
 
 ---
 
-### Straight talk
-This README is **production-grade**:
-- Recruiter-friendly  
-- Interview-ready  
-- Clean architecture explanation  
-- No amateur fluff  
 
-If you want next:
-- README for **Student Complaint Portal**
-- API documentation
-- Screenshot section
-- GitHub badges
-- Resume-linked README tuning
-
-Say it.
